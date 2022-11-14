@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkteam_1=self.webpackChunkteam_1||[]).push([[363],{363:(e,t,n)=>{n.r(t),n.d(t,{default:()=>a});var l=n(166),u=n.n(l);const a=function(){return u().createElement("section",null,u().createElement("h1",null,"slider"))}}}]);

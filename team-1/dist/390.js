@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkteam_1=self.webpackChunkteam_1||[]).push([[390],{390:(e,t,n)=>{n.r(t),n.d(t,{default:()=>a});var r=n(166),u=n.n(r);const a=function(){return u().createElement("footer",null,"my footer")}}}]);

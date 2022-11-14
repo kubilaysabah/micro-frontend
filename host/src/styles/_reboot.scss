@@ -1,0 +1,44 @@
+*, ::before, ::after {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: $base-font-size;
+}
+
+body {
+    font-size: 1rem;
+    margin: 0;
+}
+
+ul, ol, dl {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+@for $i from 1 through 6 {
+    h#{$i} {
+        margin: 0;
+    }
+}
+
+p {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+input {
+    &:not([type="checkbox"], [type="radio"]) {
+        width: 100%;
+    }
+}
+
+button {
+    &:not([disabled]) {
+        cursor: pointer;
+    }
+}

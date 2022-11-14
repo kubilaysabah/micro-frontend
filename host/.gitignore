@@ -1,0 +1,13 @@
+# editor
+.vs
+.idea
+
+# npm
+/node_modules
+package.lock.json
+yarn.lock
+
+# env
+.env.local
+.env.development
+.env.production
